@@ -11,7 +11,7 @@
 
 image:
   repository: mohamedtarekelsayed/frappe
-  tag: 1.0
+  tag: 1.0  
   pullPolicy: IfNotPresent
 
 nginx:
@@ -228,7 +228,7 @@ socketio:
 persistence:
   worker:
     enabled: true
-    storageClass: "your-storage-class-name"
+    storageClass: "standard"
     accessMode: ReadWriteOnce
     # existingClaim: ""
     size: 10Gi
