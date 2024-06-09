@@ -28,4 +28,5 @@ https://github.com/frappe/hrms
      kubectl get all
     if you find the pods on pending state make sure the storage are located correctly on values.yml and also check PVC
      
-
+# demo veduio 
+  https://drive.google.com/file/d/1OczFh9U87CQsQdrg4JFJ8JqZQPeniHfT/view?usp=sharing
