@@ -25,5 +25,6 @@ https://github.com/frappe/hrms
     verify that the chart has been installed successfully by running
      helm ls
      kubectl get all
+    if you find the pods on pending state make sure the storage are located correctly on values.yml and also check PVC
      
 
