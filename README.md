@@ -9,8 +9,8 @@ https://github.com/frappe/hrms
 
 # 1. Custom Frappe HR Application
   to install locally there is to ways
-  hard way => follow this guide https://codewithkarani.com/2023/12/31/how-to-install-erpnext-version-15-in-ubuntu-a-step-by-step-guide/
-  by docker => follow this guide https://medium.com/@josephcastillo_82888/simplifying-the-installion-of-erpnext-15-hrms-15-and-any-custom-apps-with-docker-49784f403d18
+  hard way => follow this guide https://codewithkarani.com/2023/12/31/how-to-install-erpnext-version-15-in-ubuntu-a-step-by-step-guide/ /n
+  by docker as docker compose => follow this guide https://medium.com/@josephcastillo_82888/simplifying-the-installion-of-erpnext-15-hrms-15-and-any-custom-apps-with-docker-49784f403d18
 
 # 2. Docker Containerization:
    useing the docker repo write your Docker file then build your image
